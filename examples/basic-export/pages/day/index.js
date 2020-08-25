@@ -1,3 +1,3 @@
-export default () => (
-  <div>Hello Day</div>
-)
+export default function Day() {
+  return <div>Hello Day</div>
+}
